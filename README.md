@@ -12,7 +12,7 @@ Sigue estos pasos para instalar y configurar el proyecto en tu máquina local.
 
 ### 1. Clona el repositorio
 ```bash
-git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/Thecknt/coderPrimeraEntrega.git)
+git clone https://github.com/Thecknt/coderPrimeraEntrega.git
 ```
 
 ### 2. Instala las dependencias
@@ -93,8 +93,6 @@ A continuación, te mostramos cómo probar los endpoints usando **Postman**.
   ]
   ```
 
-  ![Imagen de Postman: Listar productos](https://via.placeholder.com/600x400?text=Imagen+de+Postman+Listar+Productos)
-
 ---
 
 ### 2. **Agregar un nuevo producto**
@@ -126,8 +124,6 @@ A continuación, te mostramos cómo probar los endpoints usando **Postman**.
   }
   ```
 
-  ![Imagen de Postman: Agregar producto](https://via.placeholder.com/600x400?text=Imagen+de+Postman+Agregar+Producto)
-
 ---
 
 ### 3. **Agregar un producto al carrito**
@@ -146,8 +142,6 @@ A continuación, te mostramos cómo probar los endpoints usando **Postman**.
   }
   ```
 
-  ![Imagen de Postman: Agregar producto al carrito](https://via.placeholder.com/600x400?text=Imagen+de+Postman+Agregar+Producto+al+Carrito)
-
 ---
 
 ### 4. **Listar productos de un carrito**
@@ -162,8 +156,6 @@ A continuación, te mostramos cómo probar los endpoints usando **Postman**.
     }
   ]
   ```
-
-  ![Imagen de Postman: Listar productos del carrito](https://via.placeholder.com/600x400?text=Imagen+de+Postman+Listar+Productos+del+Carrito)
 
 ---
 
@@ -221,17 +213,27 @@ Para detener el servidor, presiona `Ctrl + C` en la terminal donde se está ejec
 Adjunta aquí las capturas de pantalla de Postman para cada endpoint.
 
 1. **Listar productos**:
-   ![![image](https://github.com/user-attachments/assets/21d07d7a-dfe6-4385-a431-9291f4251d8b)
-](https://via.placeholder.com/600x400?text=Imagen+de+Postman+Listar+Productos)
+   ![Imagen de Postam: Todos los productos](https://github.com/user-attachments/assets/21d07d7a-dfe6-4385-a431-9291f4251d8b)
 
 2. **Agregar producto**:
-   ![Imagen de Postman: Agregar producto](https://via.placeholder.com/600x400?text=Imagen+de+Postman+Agregar+Producto)
+   ![Imagen de Postman: Agregar producto](![image](https://github.com/user-attachments/assets/a81c8dee-128e-4307-8a70-7db3bb5960e2)
 
-3. **Agregar producto al carrito**:
-   ![Imagen de Postman: Agregar producto al carrito](https://via.placeholder.com/600x400?text=Imagen+de+Postman+Agregar+Producto+al+Carrito)
+3. **Traer un producto por Id**:
+   ![Imagen de postman: Traer un producto por ID](![image](https://github.com/user-attachments/assets/ac45eddc-52b6-4d09-a31a-e0042281e8ef)
 
-4. **Listar productos del carrito**:
-   ![Imagen de Postman: Listar productos del carrito](https://via.placeholder.com/600x400?text=Imagen+de+Postman+Listar+Productos+del+Carrito)
+4. **Actualizar un producto por ID**:
+   ![Imagen de postman: Actualizar un producto](![image](https://github.com/user-attachments/assets/2d92db30-b3ba-4f7d-99a3-b9ce91cb5005)
+
+5. **Eliminar un producto por ID**:
+   ![Imagen de postman: Eliminar un producto](![image](https://github.com/user-attachments/assets/edd07db0-b51b-4897-adae-baa100d4cc13)
+
+ **Carrito de Compras**:
+   
+6. **Agregar producto al carrito**:
+   ![Imagen de Postman: Agregar producto al carrito](![image](https://github.com/user-attachments/assets/7329d278-43e1-496c-8760-8676d8c0b600)
+
+7. **Listar productos del carrito**:
+   ![Imagen de Postman: Listar productos del carrito](https://via.placeholder.com/600x400?text=Imagen+de+Postman+Listar+Productos+del+Carrito)   
 
 ---
 
