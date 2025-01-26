@@ -1,5 +1,3 @@
-¡Claro! Aquí tienes un **README.md** completo para tu proyecto, con instrucciones detalladas sobre cómo instalarlo, levantarlo y probar los endpoints usando Postman. También he dejado espacios para que adjuntes imágenes de Postman.
-
 ---
 
 # 🛒 Proyecto: Carrito de Compras con Node.js y Express
