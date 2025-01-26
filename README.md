@@ -211,27 +211,27 @@ Para detener el servidor, presiona `Ctrl + C` en la terminal donde se está ejec
 ### 📷 Capturas de Postman
 
 1. **Listar productos**:
-   https://github.com/user-attachments/assets/21d07d7a-dfe6-4385-a431-9291f4251d8b
+   ![image](https://github.com/user-attachments/assets/21d07d7a-dfe6-4385-a431-9291f4251d8b)
 
 2. **Agregar producto**:
-   ![Imagen de Postman: Agregar producto](![image](https://github.com/user-attachments/assets/a81c8dee-128e-4307-8a70-7db3bb5960e2)
+   ![image](https://github.com/user-attachments/assets/a81c8dee-128e-4307-8a70-7db3bb5960e2)
 
 3. **Traer un producto por Id**:
-   ![Imagen de postman: Traer un producto por ID](![image](https://github.com/user-attachments/assets/ac45eddc-52b6-4d09-a31a-e0042281e8ef)
+   ![image](https://github.com/user-attachments/assets/ac45eddc-52b6-4d09-a31a-e0042281e8ef)
 
 4. **Actualizar un producto por ID**:
-   ![Imagen de postman: Actualizar un producto](![image](https://github.com/user-attachments/assets/2d92db30-b3ba-4f7d-99a3-b9ce91cb5005)
+   ![image](https://github.com/user-attachments/assets/2d92db30-b3ba-4f7d-99a3-b9ce91cb5005)
 
 5. **Eliminar un producto por ID**:
-   ![Imagen de postman: Eliminar un producto](![image](https://github.com/user-attachments/assets/edd07db0-b51b-4897-adae-baa100d4cc13)
+   ![image](https://github.com/user-attachments/assets/edd07db0-b51b-4897-adae-baa100d4cc13)
 
  **Carrito de Compras**:
    
 6. **Agregar producto al carrito**:
-   ![Imagen de Postman: Agregar producto al carrito](![image](https://github.com/user-attachments/assets/7329d278-43e1-496c-8760-8676d8c0b600)
+   ![image](https://github.com/user-attachments/assets/7329d278-43e1-496c-8760-8676d8c0b600)
 
 7. **Listar productos del carrito**:
-   ![Imagen de Postman: Listar productos del carrito](https://via.placeholder.com/600x400?text=Imagen+de+Postman+Listar+Productos+del+Carrito)   
+   ![image](https://via.placeholder.com/600x400?text=Imagen+de+Postman+Listar+Productos+del+Carrito)   
 
 ---
 
