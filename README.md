@@ -241,4 +241,4 @@ Para detener el servidor, presiona `Ctrl + C` en la terminal donde se está ejec
 
 ---
 
-¡Gracias por usar este proyecto! 🚀
+¡Gracias por visitar este proyecto! 🚀
