@@ -12,8 +12,7 @@ Sigue estos pasos para instalar y configurar el proyecto en tu máquina local.
 
 ### 1. Clona el repositorio
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/Thecknt/coderPrimeraEntrega.git)
 ```
 
 ### 2. Instala las dependencias
@@ -39,7 +38,7 @@ echo "[]" > src/data/carrito.json
 
 Para iniciar el servidor, ejecuta el siguiente comando:
 ```bash
-npm start
+npm start o bien node index.js
 ```
 
 El servidor estará disponible en:
@@ -198,7 +197,6 @@ Para detener el servidor, presiona `Ctrl + C` en la terminal donde se está ejec
 ## 📝 Notas Adicionales
 
 - **Persistencia**: Los datos se guardan en los archivos `productos.json` y `carrito.json`.
-- **Postman**: Puedes importar la colección de Postman desde [aquí](#) (deja el enlace o adjunta el archivo JSON de la colección).
 
 ---
 
@@ -210,7 +208,7 @@ Para detener el servidor, presiona `Ctrl + C` en la terminal donde se está ejec
 
 ---
 
-¡Esperamos que este proyecto te sea útil! Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o contactarnos. 😊
+¡Esperao que este proyecto sea útil!😊
 
 ---
 
