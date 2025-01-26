@@ -223,7 +223,8 @@ Para detener el servidor, presiona `Ctrl + C` en la terminal donde se está ejec
    ![image](https://github.com/user-attachments/assets/2d92db30-b3ba-4f7d-99a3-b9ce91cb5005)
 
 5. **Eliminar un producto por ID**:
-   ![image](https://github.com/user-attachments/assets/edd07db0-b51b-4897-adae-baa100d4cc13)
+   ![image](https://github.com/user-attachments/assets/45975c13-4304-4037-9d11-47b9bb9d78c3)
+
 
  **Carrito de Compras**:
    
