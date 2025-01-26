@@ -210,10 +210,8 @@ Para detener el servidor, presiona `Ctrl + C` en la terminal donde se está ejec
 
 ### 📷 Capturas de Postman
 
-Adjunta aquí las capturas de pantalla de Postman para cada endpoint.
-
 1. **Listar productos**:
-   ![Imagen de Postam: Todos los productos](https://github.com/user-attachments/assets/21d07d7a-dfe6-4385-a431-9291f4251d8b)
+   https://github.com/user-attachments/assets/21d07d7a-dfe6-4385-a431-9291f4251d8b
 
 2. **Agregar producto**:
    ![Imagen de Postman: Agregar producto](![image](https://github.com/user-attachments/assets/a81c8dee-128e-4307-8a70-7db3bb5960e2)
