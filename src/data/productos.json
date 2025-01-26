@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Samsung S24",
+    "description": "Smartphone de ultima generacion con un extra de rendimiento.",
+    "code": "SMN24",
+    "price": 2135000,
+    "status": true,
+    "stock": 5,
+    "category": "Electronica",
+    "thumbnails": []
+  },
+  {
+    "id": 2,
+    "title": "Samsung S24 Plus",
+    "description": "smarthpone de ultima generacion, con excelente camara de fotos",
+    "code": "SMN24+",
+    "price": 2535000,
+    "status": true,
+    "stock": 3,
+    "category": "Electronica",
+    "thumbnails": []
+  }
+]
