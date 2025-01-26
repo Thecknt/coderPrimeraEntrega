@@ -210,6 +210,7 @@ Para detener el servidor, presiona `Ctrl + C` en la terminal donde se está ejec
 
 ### 📷 Capturas de Postman
 
+
 1. **Listar productos**:
    ![image](https://github.com/user-attachments/assets/21d07d7a-dfe6-4385-a431-9291f4251d8b)
 
@@ -229,11 +230,11 @@ Para detener el servidor, presiona `Ctrl + C` en la terminal donde se está ejec
  **Carrito de Compras**:
    
 6. **Agregar producto al carrito**:
-   ![image](https://github.com/user-attachments/assets/7329d278-43e1-496c-8760-8676d8c0b600)
+   ![image](https://github.com/user-attachments/assets/cd034ca6-cfbb-4559-a85d-518c963cdc22)
 
 7. **Listar productos del carrito**:
-   ![image](https://via.placeholder.com/600x400?text=Imagen+de+Postman+Listar+Productos+del+Carrito)   
-
+   ![image](https://github.com/user-attachments/assets/544bf710-76dc-499d-970a-d089112206c9)
+   
 ---
 
 **[⬆ Volver al inicio](#-proyecto-carrito-de-compras-con-nodejs-y-express)**
