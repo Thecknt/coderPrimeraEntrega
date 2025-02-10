@@ -1,0 +1,35 @@
+<h1 class="title">🎁 Productos Disponibles 🚀</h1>
+
+<div class="products-grid">
+    {{#each products}}
+        <div class="product-card">
+            <img src="{{this.thumbnails}}" alt="{{this.title}}" class="product-image">
+            <div class="product-info">
+                <h3>{{this.title}}</h3>
+                <p class="description">{{this.description}}</p>
+                <div class="details">
+                    <p class="price">${{this.price}}</p>
+                    <p class="stock">Stock: {{this.stock}}</p>
+                </div>
+                <form action="/api/carts/1/product/{{this.id}}" method="POST">
+                    <button 
+                        type="submit" 
+                        class="add-to-cart-btn"
+                        {{#if (eq this.stock 0)}}disabled{{/if}}
+                    >
+                        {{#if (eq this.stock 0)}}Sin stock{{else}}Agregar al carrito 🛒{{/if}}
+                    </button>
+                </form>
+            </div>
+        </div>
+    {{/each}}
+</div>
+
+<script src="/socket.io/socket.io.js"></script>
+<script>
+    const socket = io();
+    
+    socket.on('update-products', (products) => {
+        window.location.reload(); // Recargar para ver cambios
+    });
+</script>
