@@ -6,8 +6,8 @@ Aquí está el README actualizado con las nuevas funcionalidades:
 
 Proyecto de carrito de compras con **Node.js**, **Express**, **Handlebars** y **WebSockets** que permite gestión en tiempo real de productos y carritos.
 
-![Demo](![image](https://github.com/user-attachments/assets/fcf94060-5e69-41f0-a7f0-7ac2f9470837)
-)
+![image](https://github.com/user-attachments/assets/1f290346-cd35-4bfe-9879-5f3db4a6b2ef)
+
 ![image](https://github.com/user-attachments/assets/4fad921e-3258-4132-a99c-bfd181f5cfc3)
 
 ---
