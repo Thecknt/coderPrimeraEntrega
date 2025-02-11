@@ -36,7 +36,7 @@ npm install
 
 ### 3. Archivos base (se crean automáticamente)
 ```bash
-npm start
+npm start o bien node index.js
 ```
 
 ---
