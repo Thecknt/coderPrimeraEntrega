@@ -1,11 +1,36 @@
 const express = require('express');
-const productsRouter = require('./routes/products.router');
-const cartsRouter = require('./routes/carts.router');
+const { engine } = require('express-handlebars');
+const { createServer } = require('http');
+const { Server } = require('socket.io');
+const path = require('path');
+const fs = require('fs');
 
 const app = express();
-app.use(express.json());
+const httpServer = createServer(app);
+const io = new Server(httpServer);
 
-app.use('/api/products', productsRouter);
-app.use('/api/carts', cartsRouter);
+// Configurar Handlebars con helpers
+app.engine('handlebars', engine({
+    defaultLayout: 'main',
+    layoutsDir: path.join(__dirname, 'views/layouts'),
+    helpers: {
+        eq: (a, b) => a === b // Comparar
+    }
+}));
+app.set('view engine', 'handlebars');
+app.set('views', path.join(__dirname, 'views'));
 
-module.exports = app;
+// Middleware para datos del formulario
+app.use(express.urlencoded({ extended: true }));
+
+// Rutas
+app.use('/api/products', require('./routes/products.router')(io));
+app.use('/api/carts', require('./routes/carts.router')(io));
+app.use('/', require('./routes/views.router'));
+
+// WebSockets
+io.on('connection', (socket) => {
+    console.log('Cliente conectado');
+});
+
+module.exports = httpServer;

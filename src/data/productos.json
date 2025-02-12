@@ -2,23 +2,78 @@
   {
     "id": 1,
     "title": "Samsung S24",
-    "description": "Smartphone de ultima generacion con un extra de rendimiento.",
+    "description": "Smartphone de ultima generacion con un extra de rendimiento, ideal para entusiastas.",
     "code": "SMN24",
-    "price": 2135000,
+    "price": 1100.99,
     "status": true,
     "stock": 5,
     "category": "Electronica",
-    "thumbnails": []
+    "thumbnails": "https://picsum.photos/300/200?random=4"
   },
   {
     "id": 2,
     "title": "Samsung S24 Plus",
-    "description": "smarthpone de ultima generacion, con excelente camara de fotos",
+    "description": "smarthpone de ultima generacion, con excelente camara de fotos, ideal para fotografos.",
     "code": "SMN24+",
-    "price": 2535000,
+    "price": 1200.99,
     "status": true,
     "stock": 3,
     "category": "Electronica",
-    "thumbnails": []
+    "thumbnails": "https://picsum.photos/300/200?random=3"
+  },
+  {
+    "id": 3,
+    "title": "Laptop Gamer Pro",
+    "description": "Laptop con pantalla 144Hz, RTX 4070 y procesador i9-13900H, ideal para gaming",
+    "code": "LT-GAMER-2024",
+    "price": 1999.99,
+    "status": true,
+    "stock": 7,
+    "category": "tecnología",
+    "thumbnails": "https://picsum.photos/300/200?random=8"
+  },
+  {
+    "id": 4,
+    "title": "Smartwatch Deportivo",
+    "description": "Monitor de ritmo cardíaco, GPS integrado y resistencia al agua",
+    "code": "SW-FIT-456",
+    "price": 999.99,
+    "status": true,
+    "stock": 25,
+    "category": "wearables",
+    "thumbnails": "https://picsum.photos/300/200?random=22"
+  },
+  {
+    "id": 5,
+    "title": "Laptop Gamer",
+    "description": "Potente laptop para gaming",
+    "code": "LT-2024",
+    "price": 1500.99,
+    "status": true,
+    "stock": 3,
+    "category": "tecnología",
+    "thumbnails": "https://picsum.photos/300/200?random=236"
+  },
+  {
+    "id": 6,
+    "title": "Zapatillas Running",
+    "description": "Calzado deportivo para correr, con tecnología de amortiguación",
+    "code": "ZAP-456",
+    "price": 89.99,
+    "status": true,
+    "stock": 20,
+    "category": "calzado",
+    "thumbnails": "https://picsum.photos/300/200?random=125"
+  },
+  {
+    "title": "Mate",
+    "description": "Mate Argnetino, confeccionado en cuero, ideal para compartir momentos con amigos.",
+    "price": 99.99,
+    "code": "CODE-521",
+    "category": "general",
+    "id": 7,
+    "status": true,
+    "thumbnails": "https://picsum.photos/300/200?random=1739221794650",
+    "stock": 9
   }
 ]
